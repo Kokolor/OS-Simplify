@@ -1,0 +1,7 @@
+create_bootloader[0x1000]
+create_entry[]
+create_kernel[]
+init_vga[]
+print[Welcome to MyOS!\n\n, 0x0A]
+print[Made by OS Simplify., 0x0F]
+close_kernel[]
