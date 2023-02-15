@@ -15,7 +15,7 @@ To run your .ossimp source code, you can use the following command in the termin
 This will create C files corresponding to your source code.
 
 To build operating system:
-To build your operating systel code, you can use the following command in the terminal:
+To build your operating system code, you can use the following command in the terminal:
 ```
 ./os_build build
 ```
